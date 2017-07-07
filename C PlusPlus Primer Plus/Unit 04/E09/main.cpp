@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
     enum grades {A, B, C};
     cout << "What letter grade do you deserve? ";
     grades deservedGrade;
-    cin >> deservedGrade;
+    cin >> deservedGrade; 
     cout << "What is your age? ";
     int age;
     cin >> age;
