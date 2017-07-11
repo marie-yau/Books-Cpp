@@ -1,6 +1,6 @@
 # Books
-Notes and exercises from
+Notes and exercises from:
 
-C++ Primer Plus
+- C++ Primer Plus
 
-Qt5 C++ Programming Cookbook
+- Qt5 C++ Programming Cookbook
