@@ -2,7 +2,7 @@
 2) values of those two numbers
 3) letter grades, student's names
 4) Machine language program can be read directly by the computer. High level language program has to be interpreted first.
-5) Compiler translates high level language program into a machine program.
+5) Compiler translates high level language program into a machine program. 
 6) Source program is code written by a programmer. Object program is source program translated to machine language.
 7) Operating system is a program that allocates computer's resources.
 8) It allocates resources of the computer so other programs can use them.
