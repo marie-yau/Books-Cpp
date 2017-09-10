@@ -1,0 +1,12 @@
+1) int feet = 0, inches = 0; int feet(0), inches(0)
+2) int count = 0; double distance = 1.5;
+3) int sum = n1 + n2;
+4) double lenght = 2; length += 8.3;
+5) int product = 3; product *= n;
+6) error
+7) double speed; double payRate; int highestScore;
+8) cout << "The answer to the question of\nLife, the Universe, and Everything is 42.\n";
+9) int the_number; cout << "Enter whole number: "; cin >> the_number;
+10) cout.setf(ios::fixed); cout.setf(ios::showpoint); cout.precision(3);
+11) #include <iostream>; using namespace std; int main(){ cout << "Hello world\n";
+13) cout << "\n \t";
