@@ -10,3 +10,25 @@
 10) cout.setf(ios::fixed); cout.setf(ios::showpoint); cout.precision(3);
 11) #include <iostream>; using namespace std; int main(){ cout << "Hello world\n";
 13) cout << "\n \t";
+14) 3x, 3x+y, (x+y)/7, (3x+y)/(z+2)
+16) bcbc
+17) 0
+19) a) 52 b) programmer doesn't use double type c) (9/5.0) + 32.00
+20) 030406
+21) if(n > 100) cout << "high" << endl; else cout << "low" << endl;
+22) if(savings >= expenses) {cout << "Solvent/n"; saving -= expenses; expenses = 0;}
+    else cout << "Bancrupt\n";
+23) if(exam >= 60 && programs_done >= 10) cout << "passed" << endl; else cout << "failed" << endl;
+24) if(temperature >= 100 || pressure >= 200) cout << "warning/n"; else cout << "OK\n";
+25) if(x < -1 or x > 2) cout << "positive\n"; else cout << "negative\n";
+26) x < 1 && x > 3
+27) a) 0 is false b) 1 is true c) -1 is true
+28) 10741
+29) loop would not be executed
+30) 10741
+31) -42
+32) in do-while statement body is executed at least once
+33) infinite loop
+34) x = 1; while(x < 21){cout << x << " "; x++}
+36) Self-Test Exercise
+37) const double VALUE = 3.78533;
