@@ -1,0 +1,6 @@
+1) a) automatic b) global c) static with interanal linkage d) static with external linkage 
+2) using declaration makes particular identifiers accessible, using directive makes the entire namespace accessible
+3) std::cout, std::cin
+4) using std::cout, using std::cin
+5) use namespace
+6) 
