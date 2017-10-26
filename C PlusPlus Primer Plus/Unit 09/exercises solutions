@@ -3,4 +3,14 @@
 3) std::cout, std::cin
 4) using std::cout, using std::cin
 5) use namespace
-6) 
+6) 10
+   4
+   nonsence
+   other(): 10, 1
+   another(): 10, -4
+7) 1
+   4, 1, 2
+   2
+   2
+   4, 1, 2
+   2
