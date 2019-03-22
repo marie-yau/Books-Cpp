@@ -1,8 +1,8 @@
 # Books
 Notes and exercises from:
 
-- C++ Primer Plus
-
-- Qt5 C++ Programming Cookbook
-
+- Assembly Language For x86 Processors
 - Beginning C++ Through Game Programming
+- C PlusPlus Primer Plus
+- Problem Solving with C++
+- Qt5 C++ Programming Cookbook
